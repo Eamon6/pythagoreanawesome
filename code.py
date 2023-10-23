@@ -7,4 +7,4 @@ b = float(input("What is the length of the first side (Side B)?: "))
 #figure out value of C
 c = math.sqrt(a**2+b**2)
 #output value of C
-print ("The length of C is " + str(c))
+print("The length of C is " + str(c))
